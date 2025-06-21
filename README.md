@@ -3,7 +3,7 @@
 Un'elegante applicazione desktop per Windows che porta il fascino dell'audio analogico sul tuo PC. Questo progetto combina un'interfaccia grafica ricca e reattiva con la cattura audio a basso livello per creare un'esperienza visiva e funzionale unica.
 
 
-!(https://imgur.com/a/1C164Wh)
+(Screenshot 2025-06-21 190308.png)
 ---
 
 ## ✨ Caratteristiche Principali
