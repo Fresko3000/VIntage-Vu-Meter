@@ -3,7 +3,7 @@
 Un'elegante applicazione desktop per Windows che porta il fascino dell'audio analogico sul tuo PC. Questo progetto combina un'interfaccia grafica ricca e reattiva con la cattura audio a basso livello per creare un'esperienza visiva e funzionale unica.
 
 
-[(Screenshot 2025-06-21 190308.png)](https://raw.githubusercontent.com/Fresko3000/VIntage-Vu-Meter/refs/heads/main/Screenshot%202025-06-21%20190308.png)
+![(Screenshot 2025-06-21 190308.png)](https://raw.githubusercontent.com/Fresko3000/VIntage-Vu-Meter/refs/heads/main/Screenshot%202025-06-21%20190308.png)
 ---
 
 ## ✨ Caratteristiche Principali
